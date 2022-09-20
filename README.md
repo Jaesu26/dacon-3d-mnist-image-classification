@@ -2,4 +2,6 @@
 
 대회 링크: https://dacon.io/competitions/official/235951/overview/description
 
+코드 공유: https://dacon.io/competitions/official/235951/codeshare/6579?page=1&dtype=recent
+
 최종 순위: [**10** / 165]
